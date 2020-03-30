@@ -1,0 +1,22 @@
+quetions
+generates quetions
+
+players
+keeps track of player lives 
+get_lives
+set_lives
+player_name
+
+
+turn
+keeps track of whose turn it is
+current_turn
+
+
+game
+runs everything
+
+math generator?
+randonly makes to math? could be inside questions
+
+
