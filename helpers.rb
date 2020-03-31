@@ -1,4 +1,4 @@
-class Input
+module Ask
   def ask(string)
     puts string
     input = gets.chomp
